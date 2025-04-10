@@ -1,0 +1,8 @@
+2025-04-10 17:43:34,145 - INFO - Logging initialized.
+2025-04-10 17:43:34,153 - INFO - Data loaded successfully from E:\BISI\Machine learning\Project\Loan_Eligibility_Model_Solution\data\credit.csv
+2025-04-10 17:43:34,180 - INFO - Data cleaned successfully.
+2025-04-10 17:43:34,478 - INFO - Model trained and saved to models/loan_model.pkl
+2025-04-10 17:49:06,829 - INFO - Logging initialized.
+2025-04-10 17:49:08,785 - INFO - Model loaded successfully from models/loan_model.pkl
+2025-04-10 17:49:12,229 - INFO - Logging initialized.
+2025-04-10 17:49:12,246 - INFO - Model loaded successfully from models/loan_model.pkl
